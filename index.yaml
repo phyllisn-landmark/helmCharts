@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-12T14:21:41.109369013Z"
+    description: A Helm chart for Kubernetes
+    digest: b522c5954af8cefc7646aae564afc1ba4f1edd3e713fca6eaa6d8f57fd62517c
+    name: myapp
+    type: application
+    urls:
+    - https://phyllisn-landmark.github.io/helmCharts/myapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-12T14:21:41.108589699Z"
